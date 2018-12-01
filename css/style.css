@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255,0,0);
+}
+
+h1,h2,a {
+    text-align: center;
+}
+
+p.students {
+color: green;
+text-align: center;
+}
+

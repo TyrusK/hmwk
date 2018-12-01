@@ -1,0 +1,5 @@
+external commands - on disc as seperate file
+
+Unix system programs are kept in directories called /bin and /usr/bin, with additional programs usually used only by system administrators in either /etc and /usr/etc or /sbin and /usr/sbin.
+
+etc
